@@ -29,6 +29,12 @@ Ekran kaydı böyle
 Uygulamanın kurulumunda ve ya resimlerin yüklenmesi gibi hatalar ile 
 karşılaşırsanız da 
 
+Kurulumda icon.png hatası ala bilirsiniz!!!
+Endişelenmeyin drawable kısmına icon.png isimli bir dosya atın
+sebebi ben orda icon kullandım ve bunu sizinle paylaşmadım sizin
+kendi iconunuz olsun diye. İstediğiniz bir resmi icon.png şeklinde 
+eklemeniz yeterli olacaktır.
+
 e-mail: arazq797@gmail.com
 adresinden bana ulaşa bilirsiniz.
 
